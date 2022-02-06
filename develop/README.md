@@ -1,11 +1,11 @@
-# hellurr
+# Test Project
 
 
-![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 ## Description
 
-nope
+this is a test project!
 
 ## Table of Contents
 
@@ -29,15 +29,15 @@ To install dependencies, run the below command:
 
 ## Usage
 
-nope
+this repository is for testing purposes!
 
 ## License 
 
-This project is licensed under the APACHE 2.0 license.
+This project is licensed under the GPL 3.0 license.
 
 ## Contributing
 
-nope
+please contribute to repository!
 
 ## Tests
 
@@ -48,5 +48,5 @@ To run tests, run the below command:
 
 ## Questions
 
-If you have questions about this repo, you can contact me at davistr1216. You can find more of my work at davistr
+If you have questions about this repo, you can contact me at davistr1216@gmail.com. You can find more of my work on [GitHub](https://github.com/davistr)
 
