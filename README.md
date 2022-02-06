@@ -8,7 +8,8 @@
 * Node.js
 
 ## Screenshots
-![](images/app_screenshot1.JPG)
+![](images/app_screenshot1.jpg)
+![](images/app_screenshot2.jpg)
 
 ## Demo Video Link:
 * https://watch.screencastify.com/v/BLRfPc2HzPbmsxWcK5t0
